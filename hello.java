@@ -1,1 +1,3 @@
-public calss hello
+public class hello{
+
+}
